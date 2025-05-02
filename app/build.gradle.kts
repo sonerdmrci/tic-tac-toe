@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.sonerdmrci.tictactoe"
-    compileSdk = 34
+    compileSdk = 35
 
     buildFeatures {
         viewBinding = true
@@ -14,7 +14,7 @@ android {
     defaultConfig {
         applicationId = "com.sonerdmrci.tictactoe"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
